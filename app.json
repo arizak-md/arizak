@@ -1,7 +1,7 @@
 {
   "name": "ARIZAK-MD",
   "description": "Javascript WhatsApp bot made by ᴏʙᴇᴅᴛᴇᴄʜ",
-  "logo": "https://res.cloudinary.com/dgy2dutjs/image/upload/v1751656256/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_xyfpby.jpg",
+  "logo": "https://files.catbox.moe/1um7fs.jpg",
   "keywords": ["ARIZAK-MD"],
   "success_url": "/",
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/11w56r.jpg"
+      "value": "https://files.catbox.moe/1um7fs.jpg"
     },
     
      "DESCRIPTION": {
