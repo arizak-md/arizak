@@ -3,7 +3,7 @@ services:
     name: ARIZAK-MD
     env: node
     plan: free
-    repo: https://github.com/Obedweb/Hunter-Xmd1
+    repo: https://github.com/arizak-md/arizak
     branch: main
     buildCommand: npm install
     startCommand: npm start
