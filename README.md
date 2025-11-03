@@ -64,9 +64,6 @@
 
 
 
-## 𝐑𝐄𝐀𝐂𝐇 𝐎𝐔𝐓 ARIZAK
-
- <a href="❓❓❓"><img title="REACH OUT ARIZAKTECH" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
- 
+## FOLLOW FOR MORE 
 
 
