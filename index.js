@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254701082940']
+  const ownerNumber = ['254727740389']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -122,13 +122,13 @@ const port = process.env.PORT || 9090;
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y) to join!  
+│   Click [**Here**](https://whatsapp.com/channel/0029Vb4q0dBF1YlYwsYt9N0l) to join!  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/Obedweb/HUNTER XMD)!  
+│   Star Us [**Here**](https://github.com/arizak-md/arizak)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
-> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙾𝙱𝙴𝙳𝚃𝙴𝙲𝙷 _`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/mw1loa.jpg` }, caption: up })
+> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 arizak _`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/1um7fs.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -213,7 +213,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('254794146821', '25799056874', '254785392165');
+    const jawad = ('254727740389', '25799056874', '254785392165');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -260,7 +260,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-  if(senderNumber.includes("254701082940")){
+  if(senderNumber.includes("254727740389")){
   if(isReact) return
   m.react("🤍")
    }
@@ -783,7 +783,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send(" 𝑯𝑼𝑵𝑻𝑬𝑹 𝑿𝑴𝑫.5 𝑰𝑺 𝑺𝑻𝑨𝑹𝑻𝑬𝑫 ✅");
+  res.send(" ARIZAK-MD IS STARTED✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
