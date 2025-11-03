@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("HUNTER-XMD~", '');
+const sessdata = config.SESSION_ID.replace("ARIZAK-MD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -112,13 +112,13 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ 𝙷𝙴𝙻𝙻𝙾𝚆 𝙷𝚄𝙽𝚃𝙴𝚁 𝚇𝙼𝙳.𝟻 𝙻𝙴𝙶𝙴𝙽𝙳𝚂! ✨*
+  let up = `*✨ 𝙷𝙴𝙻𝙻𝙾𝚆 arizak 𝙻𝙴𝙶𝙴𝙽𝙳𝚂! ✨*
 
-╭─〔 *💻 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿.5 𝘽𝙊𝙏* 〕  
-├─▸ *Simplicity. Speed. Power. BY ᴏʙᴇᴅᴛᴇᴄʜ |*  
+╭─〔 *💻ARIZAK-MD* 〕  
+├─▸ *Simplicity. Speed. Power. BY arizak |*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing 𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓!*
+*❤️ Thank you for Choosing Arizak !*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
