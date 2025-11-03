@@ -1,8 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=ARIZAK-MD" alt="Typing SVG" /></a>
   </div>
-<a><img src='![IMG-20251102-WA0018](https://github.com/user-attachments/assets/d71ac08a-3a75-4ac0-be65-cdc4e8aa0aee)
-'/></a>
 
+<a><img src='https://res.cloudinary.com/dgy2dutjs/image/upload/v1751656256/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_xyfpby.jpg'/></a>
 <p align="center">
   <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-HUNTER%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
