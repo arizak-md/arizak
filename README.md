@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=ARIZAK-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=00FF00&center=true&width=1000&height=200&lines=ARIZAK-MD" alt="Typing SVG" />
+</a>
   </div>
 
 <a><img src='https://files.catbox.moe/1um7fs.jpg'/></a>
