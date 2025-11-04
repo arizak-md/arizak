@@ -3,7 +3,10 @@
 
 <a><img src='https://files.catbox.moe/1um7fs.jpg'/></a>
 <p align="center">
-  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-ARIZAK%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <p align="center">
+  <a href="https://github.com/arizak-md"><img title="Author" src="https://img.shields.io/badge/👑_Developer-ARIZAK%20MD-8A2BE2?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/arizak-md/fork"><img title="Fork Repo" src="https://img.shields.io/badge/FORK_THIS_REPO-black?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/arizak-md/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/arizak-md/arizak?color=8A2BE2&style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
