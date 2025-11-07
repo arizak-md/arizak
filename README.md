@@ -3,7 +3,7 @@
 </a>
   </div>
   <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+ARIZAK-MD+WHATSAPP+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+ABDIRII+ADAMS;🚀+Next-Gen+ARIZAK-MD+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+ARIZAK-MD+WHATSAPP+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Arizak+tech;🚀+Next-Gen+ARIZAK-MD+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <a><img src='https://files.catbox.moe/1um7fs.jpg'/></a>
