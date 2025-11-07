@@ -12,7 +12,7 @@ cmd({
 async (conn, mek, m, { from, reply, args }) => {
     try {
         // Check if URL is provided
-        if (!args) return reply("❌ Please provide a WhatsApp channel URL\nExample: .wstalk https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g");
+        if (!args) return reply("❌ Please provide a WhatsApp channel URL\nExample: .wstalk https://whatsapp.com/channel/0029Vb4q0dBF1YlYwsYt9N0l");
 
         // Extract channel ID from URL
         const channelId = args.match(/channel\/([0-9A-Za-z]+)/i)?.[1];
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, reply, args }) => {
 ┃◈┃• *📝 Description*: ${data.description.replace(/\n/g, '\n┃◈┃• ')}
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jawad Tech`;
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ arizak Tech`;
 
         // Send message with channel image
         await conn.sendMessage(from, {
