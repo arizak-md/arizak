@@ -112,10 +112,10 @@
   </a>
 
 
-| Platform | Action | Link/Number |
-| :--- | :--- | :--- |
-| **WhatsApp Channel** | Join our channel | <a href="https://whatsapp.com/channel/0029Vb4q0dBF1YlYwsYt9N0l" target="_blank">🔗 Join Here (⚫)</a> |
-| **WhatsApp Chat** | Message me directly | <a href="https://wa.me/254727740389" target="_blank">💬 Message Me (🟢)</a> |
-| **Phone** | Call me | <a href="tel:+254727740389">📞 Call Now</a> |
+[![Join our WhatsApp Channel](https://img.shields.io/badge/Join_Our_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb4q0dBF1YlYwsYt9N0l)
+
+[![Message me on WhatsApp](https://img.shields.io/badge/Message_Me_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254727740389)
+
+[![Call Me](https://img.shields.io/badge/Call_Me-0A66C2?style=for-the-badge&logo=phone&logoColor=white)](tel:+254727740389)
 
 
