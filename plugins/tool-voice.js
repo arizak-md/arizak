@@ -64,7 +64,7 @@ async (conn, mek, m, {
         ];
 
         // Create menu text
-        let menuText = "╭━━━〔 *CRISS AI VOICE MODELS* 〕━━━⊷\n";
+        let menuText = "╭━━━〔 *ARIZAK-MD VOICE MODELS* 〕━━━⊷\n";
         voiceModels.forEach(model => {
             menuText += `┃▸ ${model.number}. ${model.name}\n`;
         });
@@ -73,7 +73,7 @@ async (conn, mek, m, {
 
         // Send menu message with image
         const sentMsg = await conn.sendMessage(from, {  
-            image: { url: "https://files.catbox.moe/37xk9g.jpg" },
+            image: { url: "https://files.catbox.moe/1um7fs.jpg" },
             caption: menuText
         }, { quoted: m });
 
