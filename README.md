@@ -21,7 +21,9 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{arizak-md}/count.svg" alt="arizak :: Visitor's Count" old_src="https://profile-counter.glitch.me/{arizak-md}/count.svg" /></p>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+ARIZAK-MD+Pulse:+Alive;💬+Responding+to+your+messages;🚀+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="Quantum Pulse Animation">
+</p>
 
 ### 1. FORK THIS REPO
 
