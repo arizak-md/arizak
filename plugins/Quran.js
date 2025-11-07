@@ -59,7 +59,7 @@ ${translatedTafsirEnglish.text}`;
     await conn.sendMessage(
       from,
       {
-        image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751707342/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_exmbht.jpg` },
+        image: { url: `https://files.catbox.moe/1um7fs.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -67,7 +67,7 @@ ${translatedTafsirEnglish.text}`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: 'ᴏʙᴇᴅᴛᴇᴄʜ',
+                        newsletterName: 'arizak',
                         serverMessageId: 143
           }
         }
@@ -441,15 +441,13 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
 112. ❤️ Al-Ikhlas (The Sincerity) - الإخلاص (اخلاص)
 
 
-113. 🌅 Al-Falaq (The Daybreak) - الفلق (طلوع صبح)
-
-
+113. 🌅 Al-Falaq (The Daybreak) - الفلق (طلوع ص
 114. 🌐 An-Nas (Mankind) - الناس (انسانیت)`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751707342/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C1_exmbht.jpg` },
+                image: { url: `https://files.catbox.moe/1um7fs.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -457,7 +455,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363416335506023@newsletter',
-                        newsletterName: '120363416335506023',
+                        newsletterName: 'arizak',
                         serverMessageId: 143
                     }
                 }
