@@ -112,3 +112,10 @@
   </a>
 
 
+| Platform | Action | Link/Number |
+| :--- | :--- | :--- |
+| **WhatsApp Channel** | Join our channel | <a href="https://whatsapp.com/channel/0029Vb4q0dBF1YlYwsYt9N0l" target="_blank">🔗 Join Here (⚫)</a> |
+| **WhatsApp Chat** | Message me directly | <a href="https://wa.me/254727740389" target="_blank">💬 Message Me (🟢)</a> |
+| **Phone** | Call me | <a href="tel:+254727740389">📞 Call Now</a> |
+
+
