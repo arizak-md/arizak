@@ -119,7 +119,7 @@ ${config.DESCRIPTION}`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363416335506023@newsletter',
+                    newsletterJid: '120363380370237027@newsletter',
                     newsletterName: config.OWNER_NAME || 'arizak',
                     serverMessageId: 143
                 }
