@@ -280,7 +280,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -358,7 +358,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -425,7 +425,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -496,7 +496,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -548,7 +548,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -607,7 +607,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -668,7 +668,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -737,7 +737,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
@@ -796,7 +796,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416335506023@newsletter',
+                        newsletterJid: '120363380370237027@newsletter',
                         newsletterName: "arizak",
                         serverMessageId: 143
                     }
